@@ -1,0 +1,41 @@
+body {
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#huvudrubrik {
+    font-size: 45px;
+    text-align: center;
+    border: 10px solid black;
+    background-color: white;
+}
+
+.rubrik {
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.link {
+    font-weight: bold;
+    color: darkgray;
+}
+
+.lista {
+    font-style: italic;
+}
+
+#ragdoll {
+    border: 10px solid black;
+    text-align: center;
+}
+
+#Skeppskatt {
+    border: 10px solid black;
+}
+
+#bondkatt {
+    border: 10px solid black;
+}
